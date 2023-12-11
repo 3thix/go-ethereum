@@ -21,12 +21,12 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/common/math"
-	"github.com/ethereum/go-ethereum/core/rawdb"
-	"github.com/ethereum/go-ethereum/core/state"
-	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/ethereum/go-ethereum/params"
+	"github.com/3thix/go-ethereum/common"
+	"github.com/3thix/go-ethereum/common/math"
+	"github.com/3thix/go-ethereum/core/rawdb"
+	"github.com/3thix/go-ethereum/core/state"
+	"github.com/3thix/go-ethereum/core/types"
+	"github.com/3thix/go-ethereum/params"
 )
 
 var loopInterruptTests = []string{

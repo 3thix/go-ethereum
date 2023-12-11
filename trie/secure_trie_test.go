@@ -23,11 +23,11 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/core/rawdb"
-	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/ethereum/go-ethereum/crypto"
-	"github.com/ethereum/go-ethereum/trie/trienode"
+	"github.com/3thix/go-ethereum/common"
+	"github.com/3thix/go-ethereum/core/rawdb"
+	"github.com/3thix/go-ethereum/core/types"
+	"github.com/3thix/go-ethereum/crypto"
+	"github.com/3thix/go-ethereum/trie/trienode"
 )
 
 func newEmptySecure() *StateTrie {

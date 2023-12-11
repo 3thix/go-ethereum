@@ -26,17 +26,17 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/common/prque"
-	"github.com/ethereum/go-ethereum/consensus/misc/eip1559"
-	"github.com/ethereum/go-ethereum/core"
-	"github.com/ethereum/go-ethereum/core/state"
-	"github.com/ethereum/go-ethereum/core/txpool"
-	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/ethereum/go-ethereum/event"
-	"github.com/ethereum/go-ethereum/log"
-	"github.com/ethereum/go-ethereum/metrics"
-	"github.com/ethereum/go-ethereum/params"
+	"github.com/3thix/go-ethereum/common"
+	"github.com/3thix/go-ethereum/common/prque"
+	"github.com/3thix/go-ethereum/consensus/misc/eip1559"
+	"github.com/3thix/go-ethereum/core"
+	"github.com/3thix/go-ethereum/core/state"
+	"github.com/3thix/go-ethereum/core/txpool"
+	"github.com/3thix/go-ethereum/core/types"
+	"github.com/3thix/go-ethereum/event"
+	"github.com/3thix/go-ethereum/log"
+	"github.com/3thix/go-ethereum/metrics"
+	"github.com/3thix/go-ethereum/params"
 )
 
 const (

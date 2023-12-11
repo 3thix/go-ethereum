@@ -26,12 +26,12 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/consensus/ethash"
-	"github.com/ethereum/go-ethereum/core/rawdb"
-	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/ethereum/go-ethereum/core/vm"
-	"github.com/ethereum/go-ethereum/params"
+	"github.com/3thix/go-ethereum/common"
+	"github.com/3thix/go-ethereum/consensus/ethash"
+	"github.com/3thix/go-ethereum/core/rawdb"
+	"github.com/3thix/go-ethereum/core/types"
+	"github.com/3thix/go-ethereum/core/vm"
+	"github.com/3thix/go-ethereum/params"
 )
 
 // Tests a recovery for a short canonical chain where a recent block was already
@@ -1883,7 +1883,7 @@ func testRepairWithScheme(t *testing.T, tt *rewindTest, snapshots bool, scheme s
 	}
 }
 
-// TestIssue23496 tests scenario described in https://github.com/ethereum/go-ethereum/pull/23496#issuecomment-926393893
+// TestIssue23496 tests scenario described in https://github.com/3thix/go-ethereum/pull/23496#issuecomment-926393893
 // Credits to @zzyalbert for finding the issue.
 //
 // Local chain owns these blocks:

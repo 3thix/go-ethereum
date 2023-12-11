@@ -21,8 +21,8 @@ import (
 	"runtime"
 	"testing"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/core/rawdb"
+	"github.com/3thix/go-ethereum/common"
+	"github.com/3thix/go-ethereum/core/rawdb"
 )
 
 func TestBlockchain(t *testing.T) {

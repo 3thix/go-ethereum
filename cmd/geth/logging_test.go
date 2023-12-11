@@ -30,7 +30,7 @@ import (
 	"testing"
 	"encoding/json"
 
-	"github.com/ethereum/go-ethereum/internal/reexec"
+	"github.com/3thix/go-ethereum/internal/reexec"
 )
 
 func runSelf(args ...string) ([]byte, error) {

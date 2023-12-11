@@ -22,10 +22,10 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/ethereum/go-ethereum/eth/protocols/eth"
-	"github.com/ethereum/go-ethereum/p2p"
-	"github.com/ethereum/go-ethereum/p2p/rlpx"
-	"github.com/ethereum/go-ethereum/rlp"
+	"github.com/3thix/go-ethereum/eth/protocols/eth"
+	"github.com/3thix/go-ethereum/p2p"
+	"github.com/3thix/go-ethereum/p2p/rlpx"
+	"github.com/3thix/go-ethereum/rlp"
 )
 
 type Message interface {

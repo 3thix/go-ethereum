@@ -6,7 +6,7 @@ import (
 	"encoding/json"
 	"errors"
 
-	"github.com/ethereum/go-ethereum/common"
+	"github.com/3thix/go-ethereum/common"
 )
 
 var _ = (*headerMarshaling)(nil)

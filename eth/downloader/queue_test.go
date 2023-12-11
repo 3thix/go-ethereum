@@ -25,13 +25,13 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/consensus/ethash"
-	"github.com/ethereum/go-ethereum/core"
-	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/ethereum/go-ethereum/log"
-	"github.com/ethereum/go-ethereum/params"
-	"github.com/ethereum/go-ethereum/trie"
+	"github.com/3thix/go-ethereum/common"
+	"github.com/3thix/go-ethereum/consensus/ethash"
+	"github.com/3thix/go-ethereum/core"
+	"github.com/3thix/go-ethereum/core/types"
+	"github.com/3thix/go-ethereum/log"
+	"github.com/3thix/go-ethereum/params"
+	"github.com/3thix/go-ethereum/trie"
 	"golang.org/x/exp/slog"
 )
 

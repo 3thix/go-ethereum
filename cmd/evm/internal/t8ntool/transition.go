@@ -26,17 +26,17 @@ import (
 
 	"golang.org/x/exp/slog"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/common/hexutil"
-	"github.com/ethereum/go-ethereum/consensus/misc/eip1559"
-	"github.com/ethereum/go-ethereum/core"
-	"github.com/ethereum/go-ethereum/core/state"
-	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/ethereum/go-ethereum/core/vm"
-	"github.com/ethereum/go-ethereum/eth/tracers/logger"
-	"github.com/ethereum/go-ethereum/log"
-	"github.com/ethereum/go-ethereum/params"
-	"github.com/ethereum/go-ethereum/tests"
+	"github.com/3thix/go-ethereum/common"
+	"github.com/3thix/go-ethereum/common/hexutil"
+	"github.com/3thix/go-ethereum/consensus/misc/eip1559"
+	"github.com/3thix/go-ethereum/core"
+	"github.com/3thix/go-ethereum/core/state"
+	"github.com/3thix/go-ethereum/core/types"
+	"github.com/3thix/go-ethereum/core/vm"
+	"github.com/3thix/go-ethereum/eth/tracers/logger"
+	"github.com/3thix/go-ethereum/log"
+	"github.com/3thix/go-ethereum/params"
+	"github.com/3thix/go-ethereum/tests"
 	"github.com/urfave/cli/v2"
 )
 

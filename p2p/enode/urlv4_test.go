@@ -24,8 +24,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/ethereum/go-ethereum/crypto"
-	"github.com/ethereum/go-ethereum/p2p/enr"
+	"github.com/3thix/go-ethereum/crypto"
+	"github.com/3thix/go-ethereum/p2p/enr"
 )
 
 func init() {

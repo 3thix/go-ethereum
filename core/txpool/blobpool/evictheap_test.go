@@ -21,8 +21,8 @@ import (
 	mrand "math/rand"
 	"testing"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/params"
+	"github.com/3thix/go-ethereum/common"
+	"github.com/3thix/go-ethereum/params"
 	"github.com/holiman/uint256"
 )
 

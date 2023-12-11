@@ -25,13 +25,13 @@ import (
 	"os"
 	"time"
 
-	"github.com/ethereum/go-ethereum/cmd/utils"
-	"github.com/ethereum/go-ethereum/crypto"
-	"github.com/ethereum/go-ethereum/log"
-	"github.com/ethereum/go-ethereum/p2p/discover"
-	"github.com/ethereum/go-ethereum/p2p/enode"
-	"github.com/ethereum/go-ethereum/p2p/nat"
-	"github.com/ethereum/go-ethereum/p2p/netutil"
+	"github.com/3thix/go-ethereum/cmd/utils"
+	"github.com/3thix/go-ethereum/crypto"
+	"github.com/3thix/go-ethereum/log"
+	"github.com/3thix/go-ethereum/p2p/discover"
+	"github.com/3thix/go-ethereum/p2p/enode"
+	"github.com/3thix/go-ethereum/p2p/nat"
+	"github.com/3thix/go-ethereum/p2p/netutil"
 	"golang.org/x/exp/slog"
 )
 

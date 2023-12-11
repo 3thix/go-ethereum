@@ -23,13 +23,13 @@ import (
 	"math"
 	"math/big"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/core"
-	"github.com/ethereum/go-ethereum/core/state"
-	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/ethereum/go-ethereum/core/vm"
-	"github.com/ethereum/go-ethereum/log"
-	"github.com/ethereum/go-ethereum/params"
+	"github.com/3thix/go-ethereum/common"
+	"github.com/3thix/go-ethereum/core"
+	"github.com/3thix/go-ethereum/core/state"
+	"github.com/3thix/go-ethereum/core/types"
+	"github.com/3thix/go-ethereum/core/vm"
+	"github.com/3thix/go-ethereum/log"
+	"github.com/3thix/go-ethereum/params"
 )
 
 // Options are the contextual parameters to execute the requested call.

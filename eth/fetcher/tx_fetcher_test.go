@@ -23,11 +23,11 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/common/mclock"
-	"github.com/ethereum/go-ethereum/core/txpool"
-	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/ethereum/go-ethereum/params"
+	"github.com/3thix/go-ethereum/common"
+	"github.com/3thix/go-ethereum/common/mclock"
+	"github.com/3thix/go-ethereum/core/txpool"
+	"github.com/3thix/go-ethereum/core/types"
+	"github.com/3thix/go-ethereum/params"
 )
 
 var (
